@@ -49,6 +49,7 @@ if (moreAboutHome("Riverside Manor", 25, false) == "stringnumberboolean") {
                             story.removeChild(filler);
                             story.innerHTML += p8;
                             story.appendChild(filler);
+                            
                         }
                     }
                 }
